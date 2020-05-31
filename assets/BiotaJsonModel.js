@@ -1,6 +1,6 @@
 {
    "Name": {
-      "english": "Swapnil Tapkirebvd hc Sz",
+      "english": "Swapnil Tapkire",
       "marathi": "स्वप्निल तपकिरे"    
    },
    "JobProfile": {
