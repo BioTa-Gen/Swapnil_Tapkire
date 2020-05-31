@@ -4,7 +4,7 @@
       "marathi": "स्वप्निल तपकिरे"
    },
    "JobProfile": {
-      "english": "ENGINEER",
+      "english": "SOFTWARE ENGINEER",
       "marathi": "SOFTWARE ENGINEER"
    },
    "Facebook": "https://www.facebook.com/swapnil.tapkire.5/",
@@ -81,6 +81,16 @@
       }
    },
    "FamilyInformation": {
+      "GrandfatherName": {
+         "english": "Shamrao Bhavadu Tapkire",
+         "marathi": "शामराव भावडू तपकिरे"
+      },
+      "GrandmotherName": {
+         "english": "Sumitra Shamrao Tapkire",
+         "marathi": "सुमित्रा शामराव तपकिरे"
+      },
+
+
       "FatherName": {
          "english": "Dattatray Shamrao Tapkire(Business)",
          "marathi": "दत्तात्रय शामराव तपकिरे (व्यवसाय)"
