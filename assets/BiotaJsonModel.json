@@ -38,7 +38,7 @@
          "marathi": "जालना"
       },
       "BirthTime": {
-         "english": "2:45PM",
+         "english": "2:45 AM",
          "marathi": "२:४५ सकाळ"
       },
       "Color": {
@@ -62,8 +62,8 @@
          "marathi": "कर्क"
       },
       "Kuldaivat": {
-         "english": "Tulja Bhavani(Tuljapur)",
-         "marathi": "तुळजा भवानी (तुळजापुर)"
+         "english": "Tulja Bhavani(Tuljapur), khandoba",
+         "marathi": "तुळजा भवानी (तुळजापुर), खंडोबा"
       },
       "RasName": {
          "english": "DalDev",
@@ -118,16 +118,16 @@
          "marathi": "कै. सुनील शंकरराव बुरकुले (जालना), बंडू काजळकर (औरंगाबाद)"
       },
       "Aatya": {
-         "english": "Pushpa Deokar(Chikhali), Archana Bide(Aurangabad), Swati Yelgire(Aurangabad)",
-         "marathi": "पुष्पा देवकर (चिखली), अर्चना बिदे (औरंगाबाद), स्वाती येलगीरे (औरंगाबाद)"
+         "english": "Pushpa Deokar(Chikhali), Archana Bide(Nagar), Swati Yelgire(Aurangabad)",
+         "marathi": "पुष्पा देवकर (चिखली), अर्चना बिदे (नगर), स्वाती येलगीरे (औरंगाबाद)"
       },
       "Mavshi": {
          "english": "Meena Arun Patukale(Akola)",
          "marathi": "मीना अरुण पटूकले (अकोला)"
       },
       "Relatives": {
-         "english": "kajalkar(Aurangabad),Ghodke(Aurangabad), Bolke(Aurangabad), Deokar(Chikhali), Yelgire(Aurangabad), Bide(Aurangabad), Patukale(Akola), Kanade(Aurangabad), Dhavan(Nasik), Gore(Patur)",
-         "marathi": "काजळकर (औरंगाबाद), घोडके (औरंगाबाद), बोलके (औरंगाबाद), देवकर (चिखली), येलगीरे (औरंगाबाद), बिदे (औरंगाबाद), पटूकले (अकोला), कानडे (औरंगाबाद), ढवन (नाशिक), गोरे (पातूर)"
+         "english": "kajalkar(Aurangabad),Ghodke(Aurangabad), Bolke(Aurangabad), Deokar(Chikhali), Yelgire(Aurangabad), Bide(Nagar), Patukale(Akola), Kanade(Aurangabad), Dhavan(Nasik), Gore(Patur)",
+         "marathi": "काजळकर (औरंगाबाद), घोडके (औरंगाबाद), बोलके (औरंगाबाद), देवकर (चिखली), येलगीरे (औरंगाबाद), बिदे (नगर), पटूकले (अकोला), कानडे (औरंगाबाद), ढवन (नाशिक), गोरे (पातूर)"
       }
    },
    "ContactMe": {
